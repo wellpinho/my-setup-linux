@@ -36,6 +36,8 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - Beautify
 - Javascript (ES6) Code Snippets
 - Markdown All in One
+- Material Icon Theme
+
 
 
 ### **Instalação do pacote React globalmente**
