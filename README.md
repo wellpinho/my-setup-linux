@@ -37,7 +37,11 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - Javascript (ES6) Code Snippets
 - Markdown All in One
 - Material Icon Theme
-
+- Atom Material Theme
+- font-weight: 900
+- font-size: 14
+- font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
+- tabe: 2
 
 
 ### **Instalação do pacote React globalmente**
