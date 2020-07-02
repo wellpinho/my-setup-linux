@@ -11,10 +11,10 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
   - [React](https://pt-br.reactjs.org/)
 
 
-### **Instalação NodeJS**
+### **Instalação NodeJS 12+ Ubuntu 19**
 
-- sudo apt install curl
-- curl -sL https://deb.nodesource.com
+- curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+- sudo apt-get install -y nodejs
 
 ### ** Instalação do git**
 
