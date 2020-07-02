@@ -38,6 +38,10 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - Markdown All in One
 - Material Icon Theme
 - Atom Material Theme
+- Indent-Rainbow
+- Auto Rename Tag
+- JSX HTML <tags/> Excelente para quem usar html dentro do js com react ele reconhece as tags e completa.
+
 
 ### **Minha configuração do vscode**
 - font-weight: 900
