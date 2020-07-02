@@ -24,9 +24,6 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 
 - code.visualstudio.com/docs/?dv=linux64_deb
 
-- thema Atom One Dark
-- configs font 12, font-weight: 900, espaço: 2
-
 ### **Extensões Visual Studio Code**
 - code runner
 - ESLint
