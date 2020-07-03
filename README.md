@@ -54,7 +54,7 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 ### **Instalação do pacote react router**
 - npm i react-router-dom
 
-### **Instalação do Insominia**
+### **Instalação do Insomnia**
 - https://insomnia.rest/download/core/?
 
 ### **Instalação do MongoDB Compass gerenciador gráfico da database mongodb**
