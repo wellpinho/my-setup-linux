@@ -38,6 +38,8 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - Markdown All in One
 - Material Icon Theme
 
+![Screenshot](vscode.png)
+
 
 
 ### **Instalação do pacote React globalmente**
