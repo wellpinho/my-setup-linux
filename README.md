@@ -39,18 +39,14 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - Auto Rename Tag
 - JSX HTML <tags/> Excelente para quem usar html dentro do js com react ele reconhece as tags e completa.
 
-
-<<<<<<< HEAD
 ![Screenshot](vscode.png)
 
-=======
+
 ### **Minha configuração do vscode**
 - font-weight: 900
 - font-size: 14
 - font-family: 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'
 - tabe: 2
->>>>>>> 51d11d3228a27502af36cfb7372b7655cf994228
-
 
 ### **Instalação do pacote React globalmente**
 
