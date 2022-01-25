@@ -56,7 +56,7 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - tabe: 2
 
 ### Fish Shell
-- https://fishshell.com/
+- ```sudo apt-get install fish ```
 - ![image](https://user-images.githubusercontent.com/9344482/140607635-bc43ae5a-07f1-450a-8614-cd442b9bae4b.png)
 
 
