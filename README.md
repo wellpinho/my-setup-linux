@@ -41,6 +41,7 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - Gitblame
 - Liveshare
 - Vetur
+- Error Lens
 - Jest Snippets
 - JSX HTML <tags/> Excelente para quem usar html dentro do js com react ele reconhece as tags e completa.
 - vscode-styled-components Excelente para trabalhar estilos css no react com styled-components
