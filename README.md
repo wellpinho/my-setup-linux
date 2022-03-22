@@ -47,6 +47,7 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 - vscode-styled-components Excelente para trabalhar estilos css no react com styled-components
 - Gitmoji - coloca icons para dar destaques aos commits
 - tabnine - É um plugin do tipo autocomplete que usar inteligência artificial.
+- Color Highlight - Deixa o hexadecimal do css com a cor de fundo.
 
 ![Screenshot](vscode.png)
 
