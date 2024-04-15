@@ -27,6 +27,7 @@ Esse repositório contém meu setup de ferramentas para instalar no Ubuntu 19+
 ### **Extensões Visual Studio Code**
 - code runner
 - ESLint
+- Tailwind CSS IntelliSense
 - Live Sass Compiler
 - Live server
 - Simple React Snnipets
